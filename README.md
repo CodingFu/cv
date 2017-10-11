@@ -37,7 +37,7 @@ Mentored 250+ developers of all levels on various topics via screen share. Vastl
 #### [*Make sure to check out my profile to see what people say about me!*](https://www.codementor.io/codingfu)
 
 ### 2015-present Toptal - Top talent full-stack developer
-Developing key features on top SMS Marketing platform in USA and Canada using Ruby on Rails, React and Elixir
+Developing key features for top SMS Marketing platform in USA and Canada using Ruby on Rails, React and Elixir
 
 #### [*Make sure to check out my profile*](https://www.toptal.com/resume/seva-rybakov)
 
