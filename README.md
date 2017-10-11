@@ -42,7 +42,7 @@ Developing key features on top SMS Marketing platform in USA and Canada using Ru
 #### [*Make sure to check out my profile*](https://www.toptal.com/resume/seva-rybakov)
 
 ### 2017-present Gigster - Full stack web developer
-Disrupting car battery delivery business in Miami and Colombia as a part of remote team of the most talented people from all over the globe.
+Disrupting car battery delivery business in Miami and Colombia as a part of remote team of the most talented people from all over the globe. We developed the project from the ground up and successfully launched it!
 
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
