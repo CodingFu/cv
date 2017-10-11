@@ -51,4 +51,4 @@ Disrupting car battery delivery business in Miami and Colombia as a part of remo
 
 2013-2015 **Master in Computer Science** @ [Belarussian State University of Informatics and Radioelectronics](https://www.bsuir.by/en/) *(unfinished due to some serious coding going on in my life)*
 
-2011 - **First Certificate in English - Pre-Advanced level** @ [International House]
+2011 - **First Certificate in English - Pre-Advanced level** @ [International House](https://ih.by)
