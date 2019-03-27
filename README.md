@@ -1,6 +1,6 @@
 # Seva Rybakov
 
-My name is Seva and I'm an awesome full-stack web-developer. I'm 26, travel the world and do consulting for couple awesome *international remote top-talent companies* and *mentor other developers* because I love teaching stuff. Also, I've been a *CTO* @ 2 startups that I co-founded and been a *Head of Web Development Department* of small outsourcing company that I also co-founded back in Belarus before I realized how much I enjoy the remote lifestyle.
+My name is Seva and I'm an awesome full-stack web-developer. I'm 28, travel the world and do consulting for couple awesome *international remote top-talent companies* and *mentor other developers* because I love teaching stuff. Also, I've been a *CTO* @ 2 startups that I co-founded and been a *Head of Web Development Department* of small outsourcing company that I also co-founded back in Belarus before I realized how much I enjoy the remote lifestyle.
 
 ## Quick links
 
@@ -12,7 +12,7 @@ My name is Seva and I'm an awesome full-stack web-developer. I'm 26, travel the 
 |------------|--------------------------------------------------|
 | Deployment | Debian-based servers, Docker, Heroku, AWS        |
 | Databases  | MySQL, PostgreSQL, Redis, MongoDB, ElasticSearch |
-| Front-end  | CSS3, HTML5, ES6, React & Redux, jQuery          |
+| Front-end  | CSS3, HTML5, ES6, React, Redux, React Native, jQuery   |
 | Back-end   | Ruby on Rails, Node.js,  Elixir                  |
 | Tools      | Macbook, vim, git, rspec, Google Chrome, Sketch  |
 | Practices  | TDD and clean, readable code                     |
@@ -20,15 +20,20 @@ My name is Seva and I'm an awesome full-stack web-developer. I'm 26, travel the 
 ## Employment
 ### 2006-2011 **Freelance work**
 
-I did some incomplex popular CMS and Forum written in PHP work
+I did some incomplex work on popular CMS and Forums written in PHP 
 
 ### 2011-2013 **Itransition - Web developer**
 
-I was developing various projects in Ruby on Rails & jQuery. I did some Java and .NET here and there to help people out too.
+I was developing various projects in Ruby on Rails & jQuery. I did some Java and .NET here and there too.
 
 ### 2013-2016 Minsk based outsourcing company - Head of Web Development Department & co-founder
 
 Key developer work on several projects using Ruby on Rails and Node.js, project management, customer acquisition.
+Highlights:
+- Next-gen email client. Backend in Rails and some Node.js. Unfortunately we were kicked out of market by Google Inbox.
+- A Tinder-like dating app that connects people who want to go together on a concert. (Backend and team management)
+- Geotracking system for tracking international goods delivery by trucks. (Backend in Node.js and front-end in React)
+- Uber-like taxi app for Lithuania and Latvia. (Backend in Rails, some front-end in Android and iOS)
 
 ### 2015-present Codementor - Expert mentor
 
@@ -42,7 +47,9 @@ Developing key features for top SMS Marketing platform in USA and Canada using R
 #### [*Make sure to check out my profile*](https://www.toptal.com/resume/seva-rybakov)
 
 ### 2017-present Gigster - Full stack web developer
-Disrupting car battery delivery business in Miami and Colombia as a part of remote team of the most talented people from all over the globe. We developed the project from the ground up and successfully launched it!
+Highlights:
+- Disrupting car battery delivery business in Miami and Colombia as a part of remote team of the most talented people from all over the globe. We developed the project from the ground up and successfully launched it!
+- Coursera-like app, both front-end (React+Redux) and back-end (Node.js+Express)
 
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
