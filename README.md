@@ -37,7 +37,7 @@ Highlights:
 
 ### 2015-present Codementor and Arc - Expert mentor
 
-Mentored 250+ developers of all levels on various topics via screen share. Vastly improved my communication skills and ability to dive into unfamiliar project code and solve problems. 
+- Mentored 250+ developers of all levels on various topics via screen share. Vastly improved my communication skills and ability to dive into unfamiliar project code and solve problems. 
 
 - Worked on a huge high loaded community focused social network platform in Rails, Node and React
 
