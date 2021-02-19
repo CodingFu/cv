@@ -14,8 +14,8 @@ My name is Seva and I'm an awesome full-stack web-developer. I'm 30, I travel th
 | Databases  | MySQL, PostgreSQL, Redis, MongoDB, ElasticSearch |
 | Front-end  | CSS3, HTML5, ESNext, TypeScript, React, Redux, React Native |
 | Back-end   | Ruby on Rails, Node.js                           |
-| Tools      | Macbook, vim, git, tmux,                         |
-| Practices  | TDD and clean  readable code                     |
+| Tools      | Macbook, vim, git, tmux                          |
+| Practices  | TDD and clean  readable code, Microservice Architecture |
 
 ## Employment
 ### 2006-2011 **Freelance work**
@@ -52,7 +52,9 @@ Highlights:
 Highlights:
 - Disrupting car battery delivery business in Miami and Colombia as a part of remote team of the most talented people from all over the globe. We developed the project from the ground up and successfully launched it!
 - Coursera-like app, both front-end (React+Redux) and back-end (Node.js+Express)
-- Shopify integrated referral system for top dental company in the industry (React and Node) *Psst, the company name is C[...]e !*
+- An app that allows people to have psychotherapy sessions remotely in these tough isolated times (Rails, React, Twilio)
+- An app that tracks employees approaching each other via RFID tokens and manages COVID-19 spread within the company. Punchline is that you don't have to quarantine the whole team, only the ones who spent enough time close to level-1 COVID carrier. (Rails, React)
+- Shopify integrated referral system for top dental company in the industry (React and Node Microservices) *Psst, the company name is C[...]e !*
 
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
