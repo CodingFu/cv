@@ -1,6 +1,6 @@
 # Seva Rybakov
 
-My name is Seva and I'm an awesome full-stack web-developer. I'm 28, travel the world and do consulting for couple awesome *international remote top-talent companies* and *mentor other developers* because I love teaching stuff. Also, I've been a *CTO* @ 2 startups that I co-founded and been a *Head of Web Development Department* of small outsourcing company that I also co-founded back in Belarus before I realized how much I enjoy the remote lifestyle.
+My name is Seva and I'm an awesome full-stack web-developer. I'm 30, I travel the world and do consulting for a few awesome *international remote top-talent companies* and *mentor other developers* because I love teaching technology. Also, I've been a *CTO* @ 2 startups that I co-founded and I've been a *Head of Web Development Department* of small outsourcing company that I also co-founded back in Belarus before I realized how much I enjoy the remote lifestyle.
 
 ## Quick links
 
@@ -10,12 +10,12 @@ My name is Seva and I'm an awesome full-stack web-developer. I'm 28, travel the 
 ## Tech Stack
 | Category   | Key Technologies                                 |
 |------------|--------------------------------------------------|
-| Deployment | Debian-based servers, Docker, Heroku, AWS        |
+| Deployment | Linux servers, Docker, Heroku, AWS, GCP          |
 | Databases  | MySQL, PostgreSQL, Redis, MongoDB, ElasticSearch |
-| Front-end  | CSS3, HTML5, ES6, React, Redux, React Native, jQuery   |
-| Back-end   | Ruby on Rails, Node.js,  Elixir                  |
-| Tools      | Macbook, vim, git, rspec, Google Chrome, Sketch  |
-| Practices  | TDD and clean, readable code                     |
+| Front-end  | CSS3, HTML5, ESNext, TypeScript, React, Redux, React Native |
+| Back-end   | Ruby on Rails, Node.js                           |
+| Tools      | Macbook, vim, git, tmux,                         |
+| Practices  | TDD and clean  readable code                     |
 
 ## Employment
 ### 2006-2011 **Freelance work**
@@ -32,19 +32,19 @@ Key developer work on several projects using Ruby on Rails and Node.js, project 
 Highlights:
 - Next-gen email client. Backend in Rails and some Node.js. Unfortunately we were kicked out of market by Google Inbox.
 - A Tinder-like dating app that connects people who want to go together on an event. (Backend and team management)
-- Geotracking system for tracking international goods delivery by trucks. (Backend in Node.js and front-end in React)
+- Geotracking system for tracking international goods delivery by trucks. (Backend in Node.js and front-end in early and sexy React.js)
 - Uber-like taxi app for Lithuania and Latvia. (Backend in Rails, some front-end in Android and iOS)
 
 ### 2015-present Codementor and Arc - Expert mentor
 
-- Mentored 250+ developers of all levels on various topics via screen share. Vastly improved my communication skills and ability to dive into unfamiliar project code and solve problems. 
+- Mentored 250+ developers of all levels on various topics via screen share. Vastly improved my communication skills and ability to dive into unfamiliar project code and solve problems.
 
 - Worked on a huge high loaded community focused social network platform in Rails, Node and React
 
 #### [*Make sure to check out my profile to see what people say about me!*](https://www.codementor.io/codingfu)
 
 ### 2015-present Toptal - Top talent full-stack developer
-Developing key features for top SMS Marketing platform in USA and Canada using Ruby on Rails, React and Elixir
+- Developed key features for top SMS Marketing platform in USA using Ruby on Rails, React and AWS Lambda
 
 #### [*Make sure to check out my profile*](https://www.toptal.com/resume/seva-rybakov)
 
@@ -52,7 +52,7 @@ Developing key features for top SMS Marketing platform in USA and Canada using R
 Highlights:
 - Disrupting car battery delivery business in Miami and Colombia as a part of remote team of the most talented people from all over the globe. We developed the project from the ground up and successfully launched it!
 - Coursera-like app, both front-end (React+Redux) and back-end (Node.js+Express)
-- Shopify integrated referral system for top dental company in the industry (React and Node)
+- Shopify integrated referral system for top dental company in the industry (React and Node) *Psst, the company name is C[...]e !*
 
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
