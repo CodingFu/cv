@@ -54,7 +54,12 @@ Highlights:
 - Coursera-like app, both front-end (React+Redux) and back-end (Node.js+Express)
 - An app that allows people to have psychotherapy sessions remotely in these tough isolated times (Rails, React, Twilio)
 - An app that tracks employees approaching each other via RFID tokens and manages COVID-19 spread within the company. Punchline is that you don't have to quarantine the whole team, only the ones who spent enough time close to level-1 COVID carrier. (Rails, React)
-- Shopify integrated referral system for top dental company in the industry (React and Node Microservices) *Psst, the company name is C[...]e !*
+- Shopify integrated referral system for top dental company in the industry (React and Node Microservices) *Psst, the company name is Colgate !*
+
+### 2021-2022 Zipline
+
+Rails hotwire app to test temperature and check-in Australian hospital vistitors.
+https://zipline.io/
 
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
