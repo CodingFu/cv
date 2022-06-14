@@ -63,7 +63,7 @@ https://shop.colgateprofessional.com/
 
 ### 2021-2022 Zipline
 
-Rails hotwire app to test temperature and check-in Australian hospital vistitors.
+Rails hotwire app to take temperature, vaccination evidence and check in Australian hospital vistitors on physical kiosk devices.
 https://zipline.io/
 
 ## Education
