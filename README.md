@@ -14,8 +14,9 @@ My name is Seva and I'm an awesome full-stack web-developer. I'm 30, I travel th
 | Databases  | MySQL, PostgreSQL, Redis, MongoDB, ElasticSearch |
 | Front-end  | CSS3, HTML5, ESNext, TypeScript, React, Redux, React Native |
 | Back-end   | Ruby on Rails, Node.js                           |
+| Third-party| Shopify, Stripe, Twilio
 | Tools      | Macbook, vim, git, tmux                          |
-| Practices  | TDD and clean  readable code, Microservice Architecture |
+| Practices  | TDD and clean readable code, Microservice Architecture |
 
 ## Employment
 ### 2006-2011 **Freelance work**
@@ -54,7 +55,7 @@ Highlights:
 - Coursera-like app, both front-end (React+Redux) and back-end (Node.js+Express)
 - An app that allows people to have psychotherapy sessions remotely in these tough isolated times (Rails, React, Twilio)
 - An app that tracks employees approaching each other via RFID tokens and manages COVID-19 spread within the company. Punchline is that you don't have to quarantine the whole team, only the ones who spent enough time close to level-1 COVID carrier. (Rails, React)
-##### - Shopify integrated multi-tenant referral system for **Colgate**, **Hills** and **EltaMD** (React, Node, Microservice architecture on GCP) 
+- Shopify integrated multi-tenant referral system for **Colgate**, **Hills** and **EltaMD** (React, Node, Microservice architecture on GCP) 
 
 ### 2021-2022 Zipline
 
