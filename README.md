@@ -55,7 +55,7 @@ Highlights:
 - Coursera-like app, both front-end (React+Redux) and back-end (Node.js+Express)
 - An app that allows people to have psychotherapy sessions remotely in these tough isolated times (Rails, React, Twilio)
 - An app that tracks employees approaching each other via RFID tokens and manages COVID-19 spread within the company. Punchline is that you don't have to quarantine the whole team, only the ones who spent enough time close to level-1 COVID carrier. (Rails, React)
-- ** Worked with Thoughtbot (https://thoughtbot.com/) on the app that facilitated vaccination in USA **
+- Worked with Thoughtbot (https://thoughtbot.com/) on the app that facilitated vaccination in USA
 
 ### 2020-2021 Colgate
 - Shopify integrated multi-tenant referral system for **Colgate**, **Hills** and **EltaMD** (React, Node, Microservice architecture on GCP) 
