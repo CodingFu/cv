@@ -11,11 +11,11 @@ My name is Seva and I'm an awesome full-stack web-developer. I'm 30, I travel th
 | Category   | Key Technologies                                 |
 |------------|--------------------------------------------------|
 | Deployment | Linux servers, Docker, Heroku, AWS, GCP          |
-| Databases  | MySQL, PostgreSQL, Redis, MongoDB, ElasticSearch |
-| Front-end  | CSS3, HTML5, ESNext, TypeScript, React, Redux, React Native |
-| Back-end   | Ruby on Rails, Node.js                           |
-| Third-party| Shopify, Stripe, Twilio
-| Tools      | Macbook, vim, git, tmux                          |
+| Databases  | MySQL, PostgreSQL, Supabase, Redis, MongoDB, ElasticSearch |
+| Front-end  | TypeScript, React, Redux, Next.js, React Native, Bootstrap, Tailwind,  |
+| Back-end   | Ruby on Rails, Node.js, REST, GraphQL            |
+| Third-party| Shopify, Stripe, Twilio,
+| Tools      | Macbook, vim, git, tmux, Chat GPT                |
 | Practices  | TDD and clean readable code, Microservice Architecture |
 
 ## Employment
