@@ -69,6 +69,9 @@ https://zipline.io/
 ### 2022 xTok
 Web3 onlyfans clone on ethereum chain.
 
+### 2022 DAZN MOMENTS
+Japanese football best moments NFT marketplace
+
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
 
