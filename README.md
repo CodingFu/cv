@@ -66,6 +66,9 @@ https://shop.colgateprofessional.com/
 Rails hotwire app to take temperature, vaccination evidence and check in Australian hospital vistitors on physical kiosk devices.
 https://zipline.io/
 
+### 2022 xTok
+Web3 onlyfans clone on ethereum chain.
+
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
 
