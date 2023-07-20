@@ -13,6 +13,7 @@ My name is Seva and I'm an awesome full-stack web-developer. I'm 30, I travel th
 | Deployment | Linux servers, Docker, Heroku, AWS, GCP          |
 | Databases  | MySQL, PostgreSQL, Supabase, Redis, MongoDB, ElasticSearch |
 | Front-end  | TypeScript, React, Redux, Next.js, React Native, Bootstrap, Tailwind,  |
+| Blockchain | Ethereum, Solidity, Hardhat, TheGraph            |
 | Back-end   | Ruby on Rails, Node.js, REST, GraphQL            |
 | Third-party| Shopify, Stripe, Twilio,
 | Tools      | Macbook, vim, git, tmux, Chat GPT                |
