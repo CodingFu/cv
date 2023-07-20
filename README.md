@@ -67,10 +67,13 @@ Rails hotwire app to take temperature, vaccination evidence and check in Austral
 https://zipline.io/
 
 ### 2022 xTok
-Web3 onlyfans clone on ethereum chain.
+Web3 OnlyFans clone on Ethereum chain.
 
 ### 2022 DAZN MOMENTS
 Japanese football best moments NFT marketplace
+
+### 2023 TRIBAL CREDIT
+Lending platform on Ethereum
 
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
