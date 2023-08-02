@@ -1,6 +1,6 @@
 # Seva Rybakov
 
-My name is Seva and I'm an awesome full-stack web-developer. I'm 30, I travel the world and do consulting for a few awesome *international remote top-talent companies* and *mentor other developers* because I love to teach people technology! Also, I've been a *CTO* @ 2 startups that I co-founded and I've been a *Head of Web Development Department* of small outsourcing company that I also co-founded back in Belarus before I realized how much I enjoy the remote lifestyle.
+My name is Seva and I'm an awesome full-stack web developer. I'm 32, I travel the world and do consulting for a few awesome *international remote top-talent companies* and *mentor other developers* because I love to teach people technology! Also, I've been a *CTO* @ 2 startups that I co-founded and I've been a *Head of the Web Development Department* of a small outsourcing company that I also co-founded back in Belarus before I realized how much I enjoy the remote lifestyle.
 
 ## Quick links
 
@@ -23,7 +23,7 @@ My name is Seva and I'm an awesome full-stack web-developer. I'm 30, I travel th
 ## Employment
 ### 2006-2011 **Freelance work**
 
-I did some incomplex work on popular CMS and Forums written in PHP 
+I did some work on popular CMS and Forums written in PHP 
 
 ### 2011-2013 **Itransition - Web developer**
 
