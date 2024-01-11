@@ -15,7 +15,7 @@ My name is Seva and I'm an awesome full-stack web developer. I'm 32, I travel th
 | Front-end  | TypeScript, React, Redux, Next.js, React Native, Bootstrap, Tailwind,  |
 | Blockchain | Ethereum, Solidity, Hardhat, TheGraph            |
 | AI/ML      | OpenAI, Weaviate, PyTorch, LangChain             |
-| Back-end   | Ruby on Rails, Node.js, REST, GraphQL            |
+| Back-end   | Ruby on Rails, Node.js, Go, REST, GraphQL            |
 | Third-party| Shopify, Stripe, Twilio,
 | Tools      | Macbook, vim, git, tmux, Chat GPT                |
 | Practices  | TDD and clean readable code, Microservice Architecture |
@@ -73,6 +73,8 @@ Web3 OnlyFans clone on Ethereum chain.
 
 ### 2022 DAZN MOMENTS
 Japanese football best moments NFT marketplace
+
+Back end in Go on Google Cloud Platform, Smart contracts on Flow Blockchain
 
 ### 2023 TRIBAL CREDIT
 Lending platform on Ethereum
