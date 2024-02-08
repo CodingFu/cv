@@ -76,7 +76,7 @@ Japanese football best moments NFT marketplace
 
 Back end in Go on Google Cloud Platform, Smart contracts on Flow Blockchain
 
-### 2023 TRIBAL CREDIT
+### 2023 TRIBAL FINANCE
 Lending platform on Ethereum
 
 ## Education
