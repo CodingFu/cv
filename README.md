@@ -77,7 +77,9 @@ Japanese football best moments NFT marketplace
 Back end in Go on Google Cloud Platform, Smart contracts on Flow Blockchain
 
 ### 2023 TRIBAL FINANCE
-Lending platform on Ethereum
+Lending platform on Ethereum.
+
+Implemented full smart contract suite and achieved close to 100% code coverage with Hardhat
 
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
