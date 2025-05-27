@@ -14,7 +14,7 @@ My name is Seva and I'm an awesome full-stack web developer. I'm 32, I travel th
 | Databases  | MySQL, PostgreSQL, Supabase, Redis, MongoDB, ElasticSearch |
 | Front-end  | TypeScript, React, Redux, Next.js, React Native, Bootstrap, Tailwind,  |
 | Blockchain | Ethereum, Solidity, Hardhat, TheGraph            |
-| AI/ML      | OpenAI, Weaviate, PyTorch, LangChain             |
+| AI/ML      | OpenAI, Weaviate, PyTorch, LangChain, LangGraph, Elevenlabs |
 | Back-end   | Ruby on Rails, Node.js, Go, REST, GraphQL            |
 | Third-party| Shopify, Stripe, Twilio,
 | Tools      | Macbook, vim, git, tmux, Chat GPT                |
@@ -80,6 +80,15 @@ Back end in Go on Google Cloud Platform, Smart contracts on Flow Blockchain
 Lending platform on Ethereum.
 
 Implemented full smart contract suite and achieved close to 100% code coverage with Hardhat
+
+### 2024-2025 HEARD by Elis
+HEARD uses AI to interview your customers and collect great context from them that you can’t achieve with a survey.
+
+Staff Backend and AI Engineer, System Architect
+
+https://heard.elis.ai/
+
+
 
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
