@@ -88,7 +88,10 @@ Staff Backend and AI Engineer, System Architect
 
 https://heard.elis.ai/
 
+### 2025 Brrian AI
+Web3 KOL wallets tracking and ai insights
 
+https://brrrian.ai
 
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
