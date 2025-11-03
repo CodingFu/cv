@@ -13,7 +13,7 @@ My name is Seva and I'm an awesome full-stack web developer. I'm 32, I travel th
 | Deployment | Linux servers, Docker, Heroku, AWS, GCP          |
 | Databases  | MySQL, PostgreSQL, Supabase, Redis, MongoDB, ElasticSearch |
 | Front-end  | TypeScript, React, Redux, Next.js, React Native, Bootstrap, Tailwind,  |
-| Blockchain | Ethereum, Solidity, Hardhat, TheGraph            |
+| Blockchain | Ethereum, Solidity, Hardhat, TheGraph, Solana, Jito, Rust   |
 | AI/ML      | OpenAI, Weaviate, PyTorch, LangChain, LangGraph, Elevenlabs |
 | Back-end   | Ruby on Rails, Node.js, Go, REST, GraphQL            |
 | Third-party| Shopify, Stripe, Twilio,
