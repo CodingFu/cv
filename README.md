@@ -93,6 +93,11 @@ Web3 KOL wallets tracking and ai insights
 
 https://brrrian.ai
 
+### 2024 Bridge23
+CTO
+
+ICP Blockchain grant winners
+
 ## Education
 2006-2008 **Studied Computer Science as High School Student** @ Luceum 2
 
